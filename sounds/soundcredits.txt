@@ -3,3 +3,4 @@ If a sound isnt credited, assume its a stock sound/unknown origin.
 ddlc = Doki Doki Literature Club
 tendo = Nintendo Console UI Sounds
 sb = Smash Bros.
+pt = Pizza Tower
